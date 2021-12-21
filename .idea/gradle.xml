@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/0801_DateTimePicker" />
+            <option value="$PROJECT_DIR$/0802_Timer" />
+            <option value="$PROJECT_DIR$/0802a_Alerm" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

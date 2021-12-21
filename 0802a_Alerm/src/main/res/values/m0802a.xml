@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0802a_ans01">選擇：</string>
+    <string name="m0802a_b001">確定</string>
+    <string name="m0802a_t001">鬧鐘播放</string>
+    <string name="m0802a_timer">99:99:99</string>
+    <string name="n_yy">年</string>
+    <string name="n_mm">月</string>
+    <string name="m_dd">日</string>
+    <string name="d_hh">點</string>
+    <string name="d_mm">分</string>
+    <string name="m0802a_err">別鬧了，這樣的時間有意義嗎？請重新設定！</string>
+    <string name="m0802a_alerm">倒數計時</string>
+</resources>

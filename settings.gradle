@@ -8,3 +8,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CH08-Thread"
 include ':app'
+include ':0801_DateTimePicker'
+include ':0802_Timer'
+
+include ':0802a_Alerm'
+
