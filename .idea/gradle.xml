@@ -13,6 +13,12 @@
             <option value="$PROJECT_DIR$/0801_DateTimePicker" />
             <option value="$PROJECT_DIR$/0802_Timer" />
             <option value="$PROJECT_DIR$/0802a_Alerm" />
+            <option value="$PROJECT_DIR$/0802b_Alerm_reset" />
+            <option value="$PROJECT_DIR$/0803_ProgressBar" />
+            <option value="$PROJECT_DIR$/0804_HandlerImage" />
+            <option value="$PROJECT_DIR$/0805_SeekBar_and_RatingBar" />
+            <option value="$PROJECT_DIR$/0806_SideMenuDrawer" />
+            <option value="$PROJECT_DIR$/0807_NavMenu" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

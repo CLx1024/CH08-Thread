@@ -105,11 +105,12 @@ public class M0802a extends AppCompatActivity implements View.OnClickListener{  
                 music_set();  // 音樂重設
                 timer.setText(String.format("%02d",hrs)+":"+String.format("%02d",mins)+":"+String.format("%02d",secs));
                 handler.postDelayed(this,1000);
-            }
-            if(hrs==0 && mins==0 && secs==0){
-                startmusic.start();
-                t001.setText(getString(R.string.m0802a_t001));
-                handler.removeCallbacks(updateTimer);
+
+                if(hrs==0 && mins==0 && secs==0){
+                    startmusic.start();
+                    t001.setText(getString(R.string.m0802a_t001));
+                    handler.removeCallbacks(updateTimer);
+                }
             }
         }
     };

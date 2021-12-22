@@ -13,3 +13,10 @@ include ':0802_Timer'
 
 include ':0802a_Alerm'
 
+include ':0802b_Alerm_reset'
+include ':0803_ProgressBar'
+include ':0804_HandlerImage'
+include ':0805_SeekBar_and_RatingBar'
+
+include ':0806_SideMenuDrawer'
+include ':0807_NavMenu'
